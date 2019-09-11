@@ -1,0 +1,30 @@
+.itemlist {
+    display: flex;
+    margin: 20px;
+    background: rgba(255,255,255,0.6);
+    border-radius: 5px;
+    flex: 1;
+    min-width: 360px;
+}
+
+.itemlist_list {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+.itemlist div {
+    padding: 10px;
+    list-style-type: none;
+    font-size: 20px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.itemlist_people {
+    border-bottom: 1px solid black;
+}
+
+.itemlist_people:hover {
+    background: rgba(255,255,255,0.3);
+}

@@ -1,0 +1,14 @@
+.essence_wrap {
+    display: flex;
+    position:relative;
+    flex-wrap: wrap;
+}
+
+.essence_text {
+    display: flex;
+    margin: 20px;
+    font-size:30px;
+    flex: 1;
+    min-width: 360px;
+    max-height: 220px;
+}

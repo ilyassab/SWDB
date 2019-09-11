@@ -1,0 +1,20 @@
+.login_wrap {
+    height: 330px;
+    background: rgba(255,255,255,0.6);
+    border-radius: 5px;
+    margin: 20px;
+    font-size: 25px;
+    text-align: center;
+}
+
+.login_wrap button {
+    border-radius: 5px;
+    border: 1px solid orange;
+    background: orange;
+    cursor: pointer;
+}
+
+.login_wrap span {
+    vertical-align: center;
+    line-height: 330px;
+}

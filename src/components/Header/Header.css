@@ -1,0 +1,21 @@
+.header_wrap {
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.header_title {
+    color: white;
+    font-size: 35px;
+    font-weight: bold;
+}
+
+.header_text {
+    font-weight: bold;
+    margin-top: 13px;
+    margin-left: 35px;
+    font-size: 18px;
+    color: white;
+}
+
+.header_wrap a {
+    text-decoration: none;
+}

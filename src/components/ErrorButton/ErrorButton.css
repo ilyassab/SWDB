@@ -1,0 +1,8 @@
+.errorbutton {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    background: red;
+    color: white;
+    border: 1px solid red;
+}
